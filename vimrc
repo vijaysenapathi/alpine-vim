@@ -108,8 +108,8 @@ set nocursorcolumn
 let loaded_matchparen=1 
 
 " makes delete key delete in insert mode
-" set backspace=indent,eol,start
-set backspace=0
+" set backspace=0
+set backspace=indent,eol,start
 
 " more comfortable splits
 set splitbelow
